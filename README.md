@@ -9,7 +9,7 @@ This microservice provides a daily quote and daily quote author sing ZeroMQ's pu
 
 Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/current-date-time-microservice.git
+   git clone https://github.com/dmarcisovska/quote_microservice.git
    cd current-date-time-microservice
 ```
 
